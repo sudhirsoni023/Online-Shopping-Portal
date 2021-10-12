@@ -1,0 +1,10 @@
+SMAP
+addNewProductAction_jsp.java
+JSP
+*S JSP
+*F
++ 0 addNewProductAction.jsp
+admin/addNewProductAction.jsp
+*L
+1,26:46
+*E
